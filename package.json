@@ -1,0 +1,24 @@
+{
+  "name": "jpushnodejsdemo",
+  "version": "0.0.1",
+  "devDependencies": {
+    "request": "latest"
+  },
+  "main": "litelibrary",
+  "bin": {
+    "jpushnodejsdemo": "litelibrary.js"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "info": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mlick",
+  "license": "ISC",
+  "description": ""
+}
