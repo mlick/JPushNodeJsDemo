@@ -2,7 +2,8 @@
   "name": "jpushnodejsdemo",
   "version": "0.0.1",
   "devDependencies": {
-    "request": "latest"
+    "request": "latest",
+    "jpush-sdk": "latest"
   },
   "main": "litelibrary",
   "bin": {
